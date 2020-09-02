@@ -1,5 +1,5 @@
 function webscokets(){
-    this.wscloction = false; //防止重复连接
+    this.wscloction = false; //防止重复连接测试pullrequest
     this.ws = '';
     this.tt;
     var that = this;
